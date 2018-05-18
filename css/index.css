@@ -291,6 +291,7 @@ p {
     width: 30px;
     float: left;
     margin-right: 10px;
+    text-align: center;
 }
 
 .location-info_inner p {
