@@ -108,6 +108,12 @@ body > .container-fluid {
     }
 }
 
+@media (max-height: 350px) {
+    .carousel-inner .item img {
+        height:135vh; 
+    }
+}
+
 .title {
     color: #922a8c;
 }
