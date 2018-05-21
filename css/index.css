@@ -197,6 +197,7 @@ p {
 .calculator-block {
     height: 250px;
     background-image: url("../image/37add043b8833fd5f3cf9a2dc735e95a.jpg"); 
+    background-size: cover;
     color:white;
     position: relative;
 }
