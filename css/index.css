@@ -573,11 +573,25 @@ INDEX2
     margin-right: 5px;
 }
 
+.offer {
+    margin-top: 48px;
+}
+
 .best-offer {
+    min-height: 848px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.best-offer-title {
     font-size: 20px;
     text-align: center;
     padding: 10px;
-    border-radius: 20px 20px 0px 0px;
     background-color: #922a8c;
     color: white;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.title-margin {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
