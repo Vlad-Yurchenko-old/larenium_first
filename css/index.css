@@ -601,6 +601,10 @@ INDEX2
     margin-bottom: 40px;
 }
 
+.title-strong {
+    font-weight: 800;
+}
+
 .separator {
     width: 100%;
     background-color: #922a8c;
